@@ -38,5 +38,4 @@ R packages required to run the project:
 - FactoMineR and factoextra - needed to perform the PCA analysis and visualization.
 
 ## Contact
-Sara V. Ramalhete
-saravramalhete@gmail.com
+Sara V. Ramalhete (saravramalhete@gmail.com)
