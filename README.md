@@ -4,7 +4,7 @@ This R project contains the data collected from an experimental study to charact
 These data were provided by Prof. Raquel P. Andrade (rgandrade@ualg.pt), and Ana Cristina Maia-Fernandes (ac.maia.fernandes@gmail.com), from Universidade do Algarve, Faro, Portugal.
 
 ## Citation
-***
+Maia-Fernandes, A.C., Pais de Azevedo, T., Ramalhete, S.V., Martins, G., Palmeirim, I., Duarte, I., Martel, P., Marreiros, A., Andrade, R.P., “A Morphometric Characterization of Early Chick Embryo Elongation”, Development Biology (2024) (Submitted)
 
 ## Usage
 This R project was built to ChickElongQuant_input.csv dataset (available in the main folder).
