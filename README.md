@@ -13,6 +13,7 @@ This R project was built to ChickElongQuant_input.csv dataset (available in the 
 - |-- README.md                      # Project documentation
 - |-- ChickElong_Measurements.Rmd    # Notebook to the data analysis
 - |-- ChickElongQuant_input.csv      # Input file
+- |-- Optimal Binning.sav            # SPSS Script for Optimal Binning
 - |-- output/                        # Directory for output files
 - |   |-- correlation.svg            # Ouput file
 - |   |-- Crecimento_Norm.svg        # Ouput file
