@@ -15,22 +15,22 @@ This R project was built to ChickElongQuant_input.csv dataset (available in the 
 - |-- ChickElongQuant_input.csv      # Input file
 - |-- Optimal Binning.sav            # SPSS Script for Optimal Binning
 - |-- output/                        # Directory for output files
-- |   |-- correlation.svg            # Ouput file
-- |   |-- Crecimento_Norm.svg        # Ouput file
-- |   |-- Crescimento.svg            # Ouput file
-- |   |-- Elongation_rate.svg        # Ouput file
-- |   |-- HHvsLen.svg                # Ouput file
-- |   |-- ridgeplot_overlap1.pdf     # Ouput file
-- |   |-- ridgeplot_overlap2.pdf     # Ouput file
-- |   |-- ridgeplot_overlap3.pdf     # Ouput file
-- |   |-- ridgeplot_overlap4.pdf     # Ouput file
-- |   |-- ridgeplot_overlap5.pdf     # Ouput file
-- |   |-- ridgeplot_overlap6.pdf     # Ouput file
-- |   |-- ridgeplot_overlap7.pdf     # Ouput file
-- |   |-- ridgeplot_overlap8.pdf     # Ouput file
-- |   |-- ridgeplot_overlap9.pdf     # Ouput file
-- |   |-- ridgeplot_time9.pdf        # Ouput file
-
+- |   |-- correlation.svg            # Output file
+- |   |-- Crecimento_Norm.svg        # Output file
+- |   |-- Crescimento.svg            # Output file
+- |   |-- Elongation_rate.svg        # Output file
+- |   |-- HHvsLen.svg                # Output file
+- |   |-- ridgeplot_overlap1.pdf     # Output file
+- |   |-- ridgeplot_overlap2.pdf     # Output file
+- |   |-- ridgeplot_overlap3.pdf     # Output file
+- |   |-- ridgeplot_overlap4.pdf     # Output file
+- |   |-- ridgeplot_overlap5.pdf     # Output file
+- |   |-- ridgeplot_overlap6.pdf     # Output file
+- |   |-- ridgeplot_overlap7.pdf     # Output file
+- |   |-- ridgeplot_overlap8.pdf     # Output file
+- |   |-- ridgeplot_overlap9.pdf     # Output file
+- |   |-- ridgeplot_time9.pdf        # Output file
+- |   |-- Output_SPSS.pdf            # Output file
 
 ## Dependencies
 R packages required to run the project:
